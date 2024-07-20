@@ -1,0 +1,23 @@
+schema- define the structure
+
+schema- model,
+ using model we perform crud opertion
+
+
+
+
+
+
+
+// rest api-json
+
+get/users/1- list all users with id 1
+
+get users/2- list all users with id 2
+
+post/users-create new users
+
+pathch /user/id- edit the data
+
+delete/user/id- delete the data with specific id
+
